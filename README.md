@@ -7,8 +7,7 @@
 - 📫 How to reach me You can find me on [LinkedIn](www.linkedin.com/in/bertha-karolina-guillén-244824185)
 
 - 😄 Pronouns:She
-- ⚡ Fun fact:Despite my background in journalism, I'm passionate about mathematics, something I never imagined when I started my career!
-
+- ⚡ Fun fact:Although my background is in journalism, I discovered a passion for data analysis. I aspire to become a professional capable of adding value to diverse projects, from exploratory analysis to creating interactive dashboards.
 <!---
 910129023/910129023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
