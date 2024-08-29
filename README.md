@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Bertha_Karolina 
+- 👋 Hi, I’m @Bertha_Karolina
+     Student at ADALAB's Data Analytics Bootcamp. Passionate about data analysis and how it can transform information into valuable knowledge.
 - 👀 I’m interested in The intersection between journalism and data analysis, and how stories can be told more effectively through data.
 - 🌱 I’m currently learning Data analysis in an intensive bootcamp, where I'm developing skills in Python, SQL, and data visualization.
 - 💞️ I’m looking to collaborate on Projects that combine journalism and data analysis. I would love to contribute to initiatives that aim
